@@ -1,0 +1,6 @@
+requests
+ipykernel
+toolz
+beautifulsoup4
+pandas
+tabulate  # for DataFrame.to_markdown()

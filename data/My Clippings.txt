@@ -1,0 +1,195 @@
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 8 | Location 186 | Added on Saturday, March 9, 2024 2:56:46 PM
+
+A machine learning approach, of which ANNs were one technique.  the author screws this up and i am not confident that it is a intentional simplification.  he also says that Deep networks are a new theoretical breakthrough, while actual pioneers and anyone familiar will see that the are the same ANNs from the 80s but with compounded computing power from moores law effect.  damaging authors credibility 
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 8 | Location 186-186 | Added on Saturday, March 9, 2024 2:56:46 PM
+
+“neural networks”
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 9 | Location 214 | Added on Saturday, March 9, 2024 3:00:59 PM
+
+Was backprop the new breakthrough, which was from the 80s, or is author refering to deep belief networks?
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 9 | Location 214-214 | Added on Saturday, March 9, 2024 3:00:59 PM
+
+Geoffrey Hinton
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 11 | Location 249-250 | Added on Saturday, March 9, 2024 3:06:51 PM
+
+American universities and technology companies have for decades reaped the rewards of the country’s ability to attract and absorb talent from around the globe.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 12 | Location 257 | Added on Saturday, March 9, 2024 3:10:57 PM
+
+Okay, i seriously doubt this but we will see.  silicon valley is an engineering, i.e. Implementing, culture, not a cambridge like theoretical research area.  so chinas only edge is in access to more chinezs data, whcih wouls be easily offset by a group of countries implementing a shared data pool.  that would be more diverzs data as well
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 12 | Location 256-257 | Added on Saturday, March 9, 2024 3:10:58 PM
+
+That global shift is the product of two transitions: from the age of discovery to the age of implementation, and from the age of expertise to the age of data.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 13 | Location 271 | Added on Saturday, March 9, 2024 3:13:51 PM
+
+The fact that this is stated as a need seems to contradict the assertion that fundamental research is done and now it is implementation only.  who edited this book?
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 13 | Location 270-271 | Added on Saturday, March 9, 2024 3:13:51 PM
+
+They do not signify rapid progress toward “general AI” or any other similar breakthrough on the level of deep learning.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 13 | Location 276 | Added on Saturday, March 9, 2024 3:15:44 PM
+
+Probably the most naive assertion that i have come across.  this guy is a business man, not a researcher
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 13 | Location 275-276 | Added on Saturday, March 9, 2024 3:15:44 PM
+
+Much of the difficult but abstract work of AI research has been done,
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 14 | Location 289 | Added on Saturday, March 9, 2024 3:43:24 PM
+
+So why dont we just copy a single image 10 million times?  maybe change a single pixel every time?  what a stupid and blatantly incorrect assertion
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 14 | Location 289-289 | Added on Saturday, March 9, 2024 3:43:24 PM
+
+there’s no data like more data. The more examples of a given phenomenon a network is exposed to,
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 16 | Location 316 | Added on Saturday, March 9, 2024 3:49:19 PM
+
+I didnt realize that the global commercial market was less competitive than a single national market within it.  logic with chinese characteristics
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 16 | Location 316-316 | Added on Saturday, March 9, 2024 3:49:19 PM
+
+lack of competition
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 16 | Location 329 | Added on Saturday, March 9, 2024 3:50:59 PM
+
+Finally, a real advantage
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 16 | Location 329-329 | Added on Saturday, March 9, 2024 3:50:59 PM
+
+mobile payments revolution unseen anywhere else.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 17 | Location 340 | Added on Saturday, March 9, 2024 3:57:01 PM
+
+still need to figure out jow to use this data, you cant plug it into an LLM architecture and output profits
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 17 | Location 339-340 | Added on Saturday, March 9, 2024 3:57:01 PM
+
+will prove invaluable in the era of AI implementation.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 17 | Location 346 | Added on Saturday, March 9, 2024 4:00:21 PM
+
+From what i knowof history, central plannong would hve been more useful for theoretiCal breakthroughs while product innovation is much better in a decentralized markret setting, so i am not convinced that the CCP is an advantage here
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 17 | Location 345-346 | Added on Saturday, March 9, 2024 4:00:21 PM
+
+Chinese government’s sweeping plan for becoming an AI superpower
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 17 | Location 346 | Added on Saturday, March 9, 2024 4:01:59 PM
+
+From what i knowof history, central plannong would hve been more useful for theoretiCal breakthroughs while product innovation is much better in a decentralized markret setting, so i am not convinced that the CCP is an advantage here.  light rails development does not seem like a good analogy
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 18 | Location 354 | Added on Saturday, March 9, 2024 4:06:33 PM
+
+States that we are in an implementation ony phase but then cites limited basis research funding as a USA limitation?  hopefully he acknowledges that uSA can pull from a global talent (engineer, entrepreneurs, and scientists) pool, including Chinas.  China isnt even particularly Attractive to all Chinese, from what i can tell (i am prone to propaganda here)
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 18 | Location 354-354 | Added on Saturday, March 9, 2024 4:06:33 PM
+
+actively slashing funding for basic research.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 25 | Location 463 | Added on Sunday, March 10, 2024 3:24:33 PM
+
+Bold Claim
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 25 | Location 463-463 | Added on Sunday, March 10, 2024 3:24:33 PM
+
+result of forging a generation of the most tenacious entrepreneurs on earth.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 27 | Location 497-499 | Added on Sunday, March 10, 2024 3:28:41 PM
+
+While Socrates encouraged his students to seek truth by questioning everything, ancient Chinese philosophers counseled people to follow the rituals of sages from the ancient past.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 37 | Location 657 | Added on Sunday, March 10, 2024 3:45:40 PM
+
+So far, i am only seein evidence of olocal firms outcompeting in a local market.  how does this translate into globaL dominance?
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 37 | Location 656-657 | Added on Sunday, March 10, 2024 3:45:41 PM
+
+Li relentlessly optimized the site for the search habits of Chinese users.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 39 | Location 688 | Added on Sunday, March 10, 2024 4:17:36 PM
+
+I have yet to see Ny evidence for tge world class claim, mostly seems like nation-class
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 39 | Location 688-688 | Added on Sunday, March 10, 2024 4:17:36 PM
+
+China’s world-class entrepreneurs.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 39 | Location 690-690 | Added on Sunday, March 10, 2024 4:17:56 PM
+
+Resistance to localization
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 39 | Location 694-695 | Added on Sunday, March 10, 2024 4:18:33 PM
+
+They’ll never be given a chance to climb the hierarchy at the Silicon Valley headquarters, instead bumping up against the ceiling of a “country manager” for China.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 41 | Location 722-722 | Added on Sunday, March 10, 2024 4:21:23 PM
+
+gladiatorial
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 42 | Location 734-735 | Added on Sunday, March 10, 2024 4:22:46 PM
+
+Qihoo first created a popular new “privacy protection” software that issued dire safety warnings every time a Tencent product was opened. The warnings were often not based on any real security vulnerability, but it was an effective smear campaign against the stronger company.
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Note on page 45 | Location 786 | Added on Sunday, March 10, 2024 4:28:16 PM
+
+Anethema to the west, a mindless colony of ants is powerful
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 45 | Location 786-786 | Added on Sunday, March 10, 2024 4:28:17 PM
+
+Unencumbered by lofty mission statements or “core values,”
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 47 | Location 829-829 | Added on Sunday, March 10, 2024 4:31:55 PM
+
+and the joint venture blindly applied Groupon’s standard
+==========
+﻿AI Superpowers (Lee, Kai-Fu)
+- Your Highlight on page 47 | Location 829-830 | Added on Sunday, March 10, 2024 4:32:16 PM
+
+standard playbook for international expansion: hire dozens of management consultants and use the temp agency Manpower to build out massive, low-level sales teams.
+==========
