@@ -10,7 +10,7 @@ import requests
 import toolz as tz
 from bs4 import BeautifulSoup
 
-import critics_toolkit.utils as u
+import scholar_scripts.utils as u
 
 log = logging.getLogger(__name__)
 

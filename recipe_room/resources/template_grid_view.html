@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipes</title>
+    <link rel="stylesheet" href="assets/grid_style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <!-- Search/Filter Boxes -->
+        <form>
+            <label class="search-label" for="search-by-name">By Name:</label>
+            <input type="text" id="search-by-name" placeholder="Search by Name" onkeyup="filterByName()">
+            <label class="search-label" for="cuisine-filter">Cuisine:</label>
+            <select id="cuisine-filter" onchange="filterByCuisine()">
+                <option value="All">All Recipes</option>
+                <option value="Italian">Italian</option>
+                <option value="Indian">Indian</option>
+                <!-- Add more categories as needed -->
+            </select>
+            <label class="search-label" for="category-filter">Category:</label>
+            <select id="category-filter" onchange="filterByCategory()">
+                <option value="All">All Recipes</option>
+                <option value="Soup">Soup</option>
+                <!-- Add more categories as needed -->
+            </select>
+        </form>
+
+        <div class="grid">
+            $grid_contents
+        </div>
+    </div>
+    <!-- JavaScript for Filtering -->
+    <script src="assets/recipes.js" type="text/javascript"></script>
+</body>
+
+</html>

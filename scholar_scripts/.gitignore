@@ -1,0 +1,6 @@
+data/local
+data/generated/*
+!data/generated/.dummy
+.venv
+.vscode
+**__pycache__**

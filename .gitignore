@@ -1,6 +1,4 @@
-data/local
-data/generated/*
-!data/generated/.dummy
 .venv
+.env
 .vscode
 **__pycache__**
