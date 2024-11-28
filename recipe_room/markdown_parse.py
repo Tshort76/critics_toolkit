@@ -18,6 +18,7 @@ def _as_img(md_link: str) -> str:
 
 
 def parse_markdown(markdown_file: Path, meta_only: bool = False) -> dict:
+    log.debug(f"Parsing markdown file: {markdown_file}")
     images_src_path = Path(c.RECIPES_IMAGE_SOURCE_DIR)
     content, images, metadata, in_contents = "", [], {}, False
     with open(markdown_file, "r", encoding="utf-8") as fp:
@@ -25,8 +26,9 @@ def parse_markdown(markdown_file: Path, meta_only: bool = False) -> dict:
             if in_contents:
                 if line.startswith("![["):
                     image_path = images_src_path.joinpath(line.strip()[3:-2])
-                    images.append(image_path)
-                    content += _as_img(image_path) + "\n"
+                    if image_path.exists():
+                        images.append(image_path)
+                        content += _as_img(image_path) + "\n"
                 else:
                     content += line + "\n"
             elif line.startswith("---") and metadata:
@@ -91,22 +93,8 @@ def as_html_file(output_path: Path, markdown_file: str = None, recipe_data: dict
     try:
         with open(output_path, "w", encoding="utf-8") as fp:
             fp.write(html)
-            log.info(f"Generated {output_path}")
+            log.debug(f"Successfully generated recipe html file: {output_path}")
             return output_path
     except Exception as ex:
-        log.error(f"Error while processing {markdown_file}.\n\n{ex}")
+        log.error(f"Error during html file creation for {markdown_file}.\n\n{ex}")
     return html
-
-
-# def main(input_file, output_file):
-#     try:
-#         convert_recipe_to_html(input_file, output_file)
-#         log.info(f"Successfully converted {input_file} to {output_file}")
-
-#     except Exception as e:
-#         log.error(f"An error occurred: {e}")
-
-
-# if __name__ == "__main__":
-#     # Example usage
-#     main(Path(f"{RECIPES_PATH}/Aloo Gobi.md"), "Aloo_Gobi.html")

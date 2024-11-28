@@ -6,7 +6,6 @@ body {
 }
 
 .container {
-    /* max-width: 1200px; */
     margin: 0 auto;
     padding: 20px;
 }
@@ -32,41 +31,18 @@ body {
 }
 
 .recipe-card:hover {
-    transform: scale(1.05);
+    transform: scale(1.03);
 }
 
 .recipe-card img {
     width: 100%;
     height: auto;
-    border-bottom: 2px solid #5d6c5c;
-}
-
-.recipe-card a {
-    /* text-decoration: none; */
-    /* color: inherit; */
-    display: block;
-    /* padding: 10px; */
-    /* background-color: #dc5c39; */
-    /* border-radius: 0 0 8px 8px; */
+    /* border-bottom: 2px solid #5d6c5c; */
 }
 
 .search-label {
     color: white;
 }
-
-/* .filter-box {
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-.filter-box select {
-    padding: 10px;
-    font-size: 16px;
-    width: 80%;
-    max-width: 400px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-} */
 
 .recipe-card .caption {
     position: absolute;
